@@ -10,4 +10,5 @@ function isAbove18() {
 
 function sayHello() {
     console.log("Hello");
+    console.log("Hi");
 }
